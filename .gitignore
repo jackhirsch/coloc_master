@@ -1,0 +1,5 @@
+*.gz
+*.txt
+*.pdf
+logs/
+coloc_results*/
